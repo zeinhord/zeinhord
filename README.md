@@ -1,16 +1,21 @@
-## Hi there 👋
+## Introducing Myself 👋
 
-<!--
-**zeinhord/zeinhord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Ivan. A Data Science student with previous expertise as an IT Business Analyst.
 
-Here are some ideas to get you started:
+- Studying Applied Data Science at Thompson Rivers University, Canada.
+- Learning Machine Learning and Data Mining in Python and Multivariate Statistics in R.
+- Looking for internship opportunities in Data Science/Analytics in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects]().
+
+### 🛠️ Tools
+
+- Language: SQL, Python, R
+- Database: MySQL, MongoDB
+- Visualization: Rstudio
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/ivan-leonychev/)
