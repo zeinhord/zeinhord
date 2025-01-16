@@ -5,7 +5,7 @@ Hello there! I'm Ivan. A Data Science student with previous expertise as an IT B
 - Studying Applied Data Science at Thompson Rivers University, Canada.
 - Learning Machine Learning and Data Mining in Python and Multivariate Statistics in R.
 - Looking for internship opportunities in Data Science/Analytics in Canada.
-- I would appreciate any suggestions or feedback on improving my portfolio!
+- I would appreciate any suggestions or feedback on improving my portfolio and, of course, any advice on what should I practice or learn next!
 
 ### 📚 Projects
 
