@@ -8,7 +8,7 @@ Hello there! I'm Ivan. A Data Science student with previous expertise as an IT B
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/zeinhord/Projects-Portfolio.git).
 
 ### 🛠️ Tools
 
